@@ -8,3 +8,17 @@ Then to gradually expand the model copy paste blocks from expansion_blocks.ipynb
 
 If you have any questions then email me here: 3174941K@student.gla.ac.uk
 Or reach out to me on Linkedin: https://www.linkedin.com/in/daniel-konioukhov/
+
+
+The full process has passed testing using the following libraries on Sunday March 15th 2026:
+
+python 3.13.12
+numpy 2.4.3
+pandas 3.0.1
+matplotlib 3.10.8
+seaborn 0.13.2
+ipykernel 7.2.0
+networkx 3.6.1
+mesa 3.5.1
+mesa solara 1.57.3
+mesa altair 6.00
